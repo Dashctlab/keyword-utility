@@ -1,0 +1,29 @@
+buckets:
+  - KA-1
+  - KA-3
+  - KA-4
+  - KA-6
+  - KA-NS
+  - KA-7
+  - KA-NF1
+  - KA-NF2
+  - KA-NF3
+  - OWN-1
+  - COMP-1
+  - COMP-2
+  - COMP-NS
+  - CMP-1
+  - CMP-2
+  - CMP-3
+  - NB-1
+  - NB-2
+  - NB-3
+  - NB-4
+  - NB-5
+  - NB-6
+  - UNCLASSIFIED
+
+intents: [NAV, LEARN, EVAL, TXN, SUPPORT]
+stages: [TOF, MOF, BOF, RET]
+paid_activations: ["Search/Shopping", "Search (tight)", "DemandGen", "Exclude", "Retarget"]
+seo_assets: ["PDP", "PLP", "Hub/Guide", "Usage/FAQ", "Comparison", "Policy", "Review needed"]
