@@ -1,0 +1,131 @@
+ka_tokens:
+  - "kerala ayurveda"
+  - "keralaayurveda"
+  - "ka"
+
+competitor_brands:
+  - "kottakkal"
+  - "arya vaidya sala"
+  - "dabur"
+  - "baidyanath"
+  - "patanjali"
+  - "himalaya"
+  - "kapiva"
+  - "organic india"
+  - "vaidyaratnam"
+
+proprietary_products:
+  - "myaxyl"
+  - "liposem"
+
+classical_formulations:
+  - "murivenna"
+  - "nalpamaradi"
+  - "neelibringadi"
+  - "triphala"
+  - "chyawanprash"
+
+categories_formats:
+  - "hair oil"
+  - "face oil"
+  - "capsules"
+  - "tablets"
+  - "churna"
+  - "lehyam"
+  - "tailam"
+  - "thailam"
+  - "kashayam"
+
+need_states:
+  - "hair fall"
+  - "hair growth"
+  - "dandruff"
+  - "pigmentation"
+  - "tan removal"
+  - "acne marks"
+  - "digestion"
+  - "constipation"
+  - "stress"
+  - "sleep"
+  - "immunity"
+  - "pain"
+  - "joint"
+  - "sprain"
+  - "wound"
+  - "injury"
+
+support_terms:
+  - "return"
+  - "refund"
+  - "track"
+  - "customer care"
+  - "shipping"
+  - "delivery"
+  - "cancel"
+
+services_terms:
+  - "clinic"
+  - "consultation"
+  - "appointment"
+  - "treatment"
+  - "panchakarma"
+  - "retreat"
+  - "course"
+  - "certification"
+
+corporate_terms:
+  - "share price"
+  - "investor"
+  - "annual report"
+  - "directors"
+  - "career"
+  - "jobs"
+  - "salary"
+
+geo_other_terms:
+  - "usa"
+  - "us store"
+  - "international shipping"
+
+eval_terms:
+  - "best"
+  - "top"
+  - "review"
+  - "rating"
+  - "vs"
+  - "versus"
+  - "comparison"
+  - "which is good"
+  - "alternative"
+
+txn_terms:
+  - "buy"
+  - "price"
+  - "cost"
+  - "online"
+  - "order"
+  - "discount"
+  - "offer"
+  - "coupon"
+  - "cod"
+  - "free shipping"
+  - "amazon"
+  - "flipkart"
+  - "near me"
+
+howto_terms:
+  - "how to"
+  - "uses"
+  - "benefits"
+  - "ingredients"
+  - "dosage"
+  - "apply"
+  - "what is"
+
+trust_terms:
+  - "original"
+  - "genuine"
+  - "authentic"
+  - "fake"
+  - "side effects"
+  - "safe"
